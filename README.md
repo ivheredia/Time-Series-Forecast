@@ -1,3 +1,3 @@
-# pythonc310Project
+# Forecast
 
 Forecast sales.
