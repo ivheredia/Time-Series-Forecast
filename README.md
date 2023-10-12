@@ -3,7 +3,7 @@
 
 - **Objetivo**: De una serie de tiempo, en este caso las ventas de un negocio, haremos predicciones a futuro sólo *en base a tendencias y periodicidad histórica* (métodos autoregresivos).
 
-- **Herramientas**: Usaremos principalmente StatModels y sus distintas liberías para análisis y modelación de series de tiempo.
+- **Herramientas**: Usaremos principalmente StatModels y sus distintas librerías para análisis, modelación y automatización de la predicción de series de tiempo.
 
 - **Basado en**:
 https://towardsdatascience.com/predict-time-stamped-sales-in-python-1914292461ad
